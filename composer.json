@@ -1,5 +1,5 @@
 {
-    "name": "bluzphp/framework",
+    "name": "kvasenko/framework",
     "description": "Lightweight PHP framework",
     "type": "composer-plugin",
     "require": {
