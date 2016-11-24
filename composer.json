@@ -2,6 +2,7 @@
     "name": "kvasenko/framework",
     "description": "Lightweight PHP framework",
     "type": "composer-plugin",
+    "homepage": "https://github.com/kvasenko/framework",
     "require": {
         "php": ">=7.0",
         "ext-PDO": "*",
